@@ -2,6 +2,7 @@ body{
 	color:#555;
 	font:300 16px/1.8 "Open Sans", Arial, sans-serif;
 	min-width: 960px;
+
 }
 a,button{
 	transition: color .2s ease-in, background-color .2s ease-in, border-color .2s ease-in;
